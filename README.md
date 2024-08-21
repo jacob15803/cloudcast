@@ -8,6 +8,7 @@ Location Input: Enter the name of any city or region.
 
 Weather Display: Shows the current weather details like temperature, humidity, and weather conditions.
 Two Pages: The app consists of two main pages
+
 -- Home Page: Where users can input the location.
 
 -- Weather Display Page: Where the weather information for the entered location is shown
