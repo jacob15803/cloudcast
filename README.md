@@ -1,16 +1,13 @@
 # cloudcast
 
-A new Flutter project.
+CloudCast is a simple Flutter application that allows users to input a location and displays the weather information for that region. The app uses the OpenWeather API to fetch real-time weather data.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+Location Input: Enter the name of any city or region.
 
-A few resources to get you started if this is your first Flutter project:
+Weather Display: Shows the current weather details like temperature, humidity, and weather conditions.
+Two Pages: The app consists of two main pages
+-- Home Page: Where users can input the location.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-- Weather Display Page: Where the weather information for the entered location is shown
